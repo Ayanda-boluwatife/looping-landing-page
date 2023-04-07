@@ -81,30 +81,6 @@ nav ol li{
     font-weight: 100;
 }
 
-.dey{
-    background-color: hsl(0, 0%, 100%);
-    position: relative;
-    padding: 4px 4px;
-    animation: dey 4s linear infinite;
-}
-
-@keyframes dey {
-    0%{
-        transform: translateX(50%);
-        transition: ease-in-out;
-    }
-    20%{
-        transform: translateX();
-    }
-}
-
-
-/* <span class="dey"></span>
-<span class="play"></span>
-<span class="boy"></span>
-<span class="girl"></span>
-<span class="men"></span> */
-
 /* ==================== fisrt section on looping landing page ends here ================= */
 
 
